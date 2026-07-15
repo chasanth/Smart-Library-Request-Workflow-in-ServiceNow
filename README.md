@@ -284,22 +284,6 @@ Contributions are welcome!
 4. Push to your branch.
 5. Open a Pull Request.
 
----
-
-## 📄 License
-
-This project is developed for educational purposes and demonstrates ServiceNow workflow automation for library management.
-
----
-
-## 👨‍💻 Author
-
-**Chasanth Reddy**
-
-- B.Tech Computer Science & Engineering
-- ServiceNow Developer
-- GitHub: *Add your GitHub profile here*
-- LinkedIn: *Add your LinkedIn profile here*
 
 ---
 
